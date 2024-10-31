@@ -5,8 +5,8 @@ import FindList from './page/FindList';
 function App() {
   return (
     // <FormLogin/>
-    // <Lock/>
-    <FindList/>
+    <Lock/>
+    // <FindList/>
   )
 }
 
