@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/NguyenTrgKien/exerciseReact.git/static/css/main.fe4d498b.css",
+    "main.js": "/NguyenTrgKien/exerciseReact.git/static/js/main.ec37c18a.js",
+    "static/js/453.f756f73a.chunk.js": "/NguyenTrgKien/exerciseReact.git/static/js/453.f756f73a.chunk.js",
+    "index.html": "/NguyenTrgKien/exerciseReact.git/index.html",
+    "main.fe4d498b.css.map": "/NguyenTrgKien/exerciseReact.git/static/css/main.fe4d498b.css.map",
+    "main.ec37c18a.js.map": "/NguyenTrgKien/exerciseReact.git/static/js/main.ec37c18a.js.map",
+    "453.f756f73a.chunk.js.map": "/NguyenTrgKien/exerciseReact.git/static/js/453.f756f73a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fe4d498b.css",
+    "static/js/main.ec37c18a.js"
+  ]
+}
